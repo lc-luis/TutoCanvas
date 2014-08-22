@@ -38,7 +38,7 @@ function cargarImagenes()
 	fondo = new Image();
 	fondo.src = 'img/fondo.png';
 	ovni = new Image();
-	ovni.src = 'img/ovni4.PNG';
+	ovni.src = 'img/ovni4.png';
 }
 
 function dibujarFondo()
