@@ -27,7 +27,11 @@ p
 }
 #miCanvas
 {
-	margin-top: 20px;
+		margin-top: 20px;
 	box-shadow:20px 20px 20px rgba(0,0,0,0.8);
 	border: solid;
+}
+ul li
+{
+	font-weight: bold;
 }
